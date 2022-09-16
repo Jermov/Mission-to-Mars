@@ -32,7 +32,7 @@ Questions:
 
 ## Scraping Mars Data
 
-An example image of the HTML page can be viewed by clicking [here](https://github.com/Jermov/Mission-to-Mars/main/images/webapp.png).
+An example image of the HTML page can be viewed by clicking [here](https://github.com/Jermov/Mission-to-Mars/blob/main/images/webapp.png).
 
 Selecting the "Scrape New Data" button will obtain the latest news, images, and facts about Mars. News titles and summaries are extracted from [NASA Mars Exploration Program News](https://data-class-mars.s3.amazonaws.com/Mars/index.html). The featured images are extracted from the [Jet Propulsion Laboratory's Space Images](https://spaceimages-mars.com/). Mars hemisphere images are extracted from [Astropedia](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars). Finally, the Mars facts are gathered from [Galaxy Facts](https://data-class-mars-facts.s3.amazonaws.com/Mars_Facts/index.html). The scraping code used in this project is [scraping.py](https://github.com/Jermov/Mission-to-Mars/main/scraping.py).
 
