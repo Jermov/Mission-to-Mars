@@ -42,7 +42,7 @@ After running [app.py](https://github.com/Jermov/Mission-to-Mars/main/app.py), t
 
 ## Updating the Web App
 
-When the 'Scrape New Data' button is selected, notice the 'featured-image' and the 'news' sections update with new data.
+When the `Scrape New Data` button is selected, notice the `featured-image` and the `news` sections update with new data.
 ![Web_App](/images/app_success.PNG?raw=true "Web Application")
 
 
